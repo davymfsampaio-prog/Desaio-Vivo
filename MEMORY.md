@@ -1,0 +1,1 @@
+- [Streamlit workflow config](streamlit-workflow.md) — configure without `waitForPort` to avoid Replit health-check timeout; use plotly geo instead of pydeck (no Mapbox token needed)
